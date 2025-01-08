@@ -1,0 +1,14 @@
+
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Burger-Menu" transform="translate(-232.000000, -41.000000)" >
+            <g id="Menu">
+                <g id="Close" transform="translate(240.142136, 49.142136) rotate(-45.000000) translate(-240.142136, -49.142136) translate(230.142136, 39.142136)">
+                    <path stroke="#DB3D33" stroke-width="3" d="M0,10 L20,10" id="Line-2"></path>
+                    <path stroke="#000" stroke-width="3" d="M10,20 L10,0" id="Line-2-Copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
